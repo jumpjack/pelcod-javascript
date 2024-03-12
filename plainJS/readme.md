@@ -35,8 +35,7 @@ to create your pelco-d object.
 - sendSetZoomSpeed
 - setCamera
 - setCameraAuto
-- send
-- send_extended
+
 
 ## Pelco-D command structure:
 
