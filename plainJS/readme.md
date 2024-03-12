@@ -42,8 +42,8 @@ to create your pelco-d object.
 
 1) 0xff: constant
 2) 0x01: address (constant)
-3) 0x00: constant
-4) 0xXX: **command**
+3) 0x00: **command 1**
+4) 0xXX: **command 2**
 5) 0xYY: **parameter 1**
 6) 0xZZ: **parameter 2**
 7) Checksum
